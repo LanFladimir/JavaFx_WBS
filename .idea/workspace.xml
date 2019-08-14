@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Wbs_DeskTop" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf84841c-9b1d-4a79-8e2b-f570f714da39" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Wbs_DeskTop.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Wbs_DeskTop.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/CtrlController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/CtrlController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/DevicesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/DevicesController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/InfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/InfoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/login/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/login/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/FileUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/FileUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/HttpUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/HttpUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/JdbcUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/JdbcUtils.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myFlattenPackages" value="true" />
+    <option name="myElementSize" value="190" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="192.168.2.250" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@192.168.2.251" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@192.168.2.251" type="feb32156:DbDataSourceImpl" />
+        <item name="master: database" type="ccb7ac2a:MsImplModel$Database" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/META-INF/MANIFEST.MF">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/login/Login.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="79" column="30" lean-forward="true" selection-start-line="79" selection-start-column="30" selection-end-line="79" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>contentPane_Devices</find>
+      <find>replaceContent</find>
+      <find>devicesController</find>
+      <find>devicesList</find>
+      <find>CtrlController</find>
+      <find>read</find>
+      <find>bt_install</find>
+      <find>urls</find>
+      <find>empty</find>
+      <find>packageName</find>
+      <find>callBackNumber</find>
+      <find>路径</find>
+      <find>ftp</find>
+      <find>ping</find>
+      <find>re_t_ip</find>
+      <find>Request_Tag_IP</find>
+      <find>onSuc</find>
+      <find>onCom</find>
+      <find>install</find>
+      <find>conn</find>
+      <find>V</find>
+      <find>devicesBox</find>
+      <find>box</find>
+      <find>b1</find>
+      <find>-fx-background-color</find>
+      <find>add</find>
+      <find>other_showps</find>
+      <find>thread</find>
+      <find>设置</find>
+      <find>doLogin</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>System.out.println(</replace>
+      <replace>choiceFile_bt</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/golbal/StageController.java" />
+        <option value="$PROJECT_DIR$/src/entity/Devices.java" />
+        <option value="$PROJECT_DIR$/src/login/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/login/Login.java" />
+        <option value="$PROJECT_DIR$/src/login/Login.java" />
+        <option value="$PROJECT_DIR$/src/main/java/login/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/main.fxml" />
+        <option value="$PROJECT_DIR$/src/main/TempFX.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/SocketClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/infos/InfoController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/DataBaseConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/golbal/GolbalServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TestFX.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/Devices.java" />
+        <option value="$PROJECT_DIR$/src/main/java/golbal/FtpUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/DevicesBean.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/6986d845-b407-4f12-94cf-3a70c89045fa/console.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/GolbalServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/DbConfigGsonBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/FileHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/test/JdbcTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/PingThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/impl/PingCallback.java" />
+        <option value="$PROJECT_DIR$/src/main/java/impl/VolleyCallBack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/UrlPart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/SystemUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/Device.java" />
+        <option value="$PROJECT_DIR$/src/main/java/impl/HttpCallBack.java" />
+        <option value="$PROJECT_DIR$/../../Scdz/Java/ScAppHelper/src/main/login/Login.java" />
+        <option value="$PROJECT_DIR$/src/main/lite/pages/FTPController.java" />
+        <option value="$PROJECT_DIR$/src/main/lite/pages/InfoController.java" />
+        <option value="$PROJECT_DIR$/src/main/lite/pages/CtrlController2.java" />
+        <option value="$PROJECT_DIR$/src/main/lite/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/lite/pages/CtrlController.java" />
+        <option value="$PROJECT_DIR$/src/main/lite/pages/DevicesController2.java" />
+        <option value="$PROJECT_DIR$/src/main/lite/pages/DevicesController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/entity/DBConfig.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/aff3b825-590b-4509-a152-585722876e9a/console.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/controller/FTPController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/PingWorker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/FtpUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/JdbcUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/Logger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controller/CtrlController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Capsule.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/FileUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controller/DevicesController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/HttpUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controller/InfoController.java" />
+        <option value="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        <option value="$PROJECT_DIR$/src/main/java/login/Login.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Wbs_DeskTop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wbs_DeskTop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Wbs_DeskTop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wbs_DeskTop" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Wbs_DeskTop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wbs_DeskTop" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Wbs_DeskTop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wbs_DeskTop" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="Wbs_DeskTop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Wbs_DeskTop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wbs_DeskTop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Wbs_DeskTop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wbs_DeskTop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Wbs_DeskTop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wbs_DeskTop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Wbs_DeskTop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Wbs_DeskTop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AnalyzeApkAction.lastApkPath" value="$USER_HOME$/Desktop/APK安装程序/tbs.apk" />
+    <property name="DatabaseDriversLRU" value="sqlserver" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="wbs_desktop" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="239" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="D:/Android/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556070634204" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last.edited.regexp" value="Sample Text" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\Scdz\Java\Wbs_DeskTop\src\main\java" />
+      <recent name="D:\WorkSpace\Scdz\Java\Wbs_DeskTop\src\main" />
+      <recent name="D:\WorkSpace\IntellijProject\Wbs_DeskTop\src\main\lite\pages" />
+      <recent name="D:\WorkSpace\IntellijProject\Wbs_DeskTop\src" />
+      <recent name="D:\WorkSpace\IntellijProject\Wbs_DeskTop\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main.lite.pages" />
+      <recent name="main.lite" />
+      <recent name="main.java.golbal" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\Scdz\Java\Wbs_DeskTop\META-INF" />
+      <recent name="D:\WorkSpace\IntellijProject\Wbs_DeskTop\lib" />
+      <recent name="D:\WorkSpace\IntellijProject\Wbs_DeskTop\src\main\java" />
+      <recent name="D:\WorkSpace\IntellijProject\Wbs_DeskTop\src\main\java\login" />
+      <recent name="D:\WorkSpace\IntellijProject\Wbs_DeskTop\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.login.Login" />
+      <module name="Wbs_DeskTop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.login.Login" />
+      <module name="Wbs_DeskTop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Login" />
+        <item itemvalue="Application.Login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Sc_Ji\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\WorkSpace\Scdz\Java\Wbs_DeskTop" />
+          <option name="myCopyRoot" value="D:\WorkSpace\Scdz\Java\Wbs_DeskTop" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\WorkSpace\Scdz\Java\Wbs_DeskTop\.idea" />
+          <option name="myCopyRoot" value="D:\WorkSpace\Scdz\Java\Wbs_DeskTop\.idea" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\WorkSpace\Scdz\Java\Wbs_DeskTop" />
+          <option name="myCopyRoot" value="D:\WorkSpace\Scdz\Java\Wbs_DeskTop" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf84841c-9b1d-4a79-8e2b-f570f714da39" name="Default Changelist" comment="" />
+      <created>1556067719976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556067719976</updated>
+      <workItem from="1556067731693" duration="2341000" />
+      <workItem from="1556261857775" duration="1830000" />
+      <workItem from="1559526912934" duration="10362000" />
+      <workItem from="1559542489198" duration="11495000" />
+      <workItem from="1559610201233" duration="2524000" />
+      <workItem from="1559613745009" duration="21103000" />
+      <workItem from="1559697630851" duration="11740000" />
+      <workItem from="1559784279048" duration="19127000" />
+      <workItem from="1560129294949" duration="3377000" />
+      <workItem from="1560146147309" duration="9924000" />
+      <workItem from="1560214581334" duration="17703000" />
+      <workItem from="1560301848067" duration="10048000" />
+      <workItem from="1560389919676" duration="16257000" />
+      <workItem from="1560416372457" duration="3464000" />
+      <workItem from="1560475708738" duration="391000" />
+      <workItem from="1560483738283" duration="10243000" />
+      <workItem from="1560734692520" duration="17354000" />
+      <workItem from="1560820638805" duration="16163000" />
+      <workItem from="1560993266808" duration="3404000" />
+      <workItem from="1561009444190" duration="2700000" />
+      <workItem from="1561079345180" duration="5222000" />
+      <workItem from="1561338965147" duration="1780000" />
+      <workItem from="1561424764090" duration="31017000" />
+      <workItem from="1561685721130" duration="850000" />
+      <workItem from="1561687480386" duration="7531000" />
+      <workItem from="1561942149383" duration="9561000" />
+      <workItem from="1562029145156" duration="4440000" />
+      <workItem from="1562233761618" duration="2332000" />
+      <workItem from="1562291475098" duration="1397000" />
+      <workItem from="1562294209979" duration="266000" />
+      <workItem from="1562295451312" duration="1246000" />
+      <workItem from="1562303914776" duration="1024000" />
+      <workItem from="1562549836584" duration="5653000" />
+      <workItem from="1562664499056" duration="597000" />
+      <workItem from="1562726104327" duration="4836000" />
+      <workItem from="1563156795139" duration="17956000" />
+      <workItem from="1563261967960" duration="7807000" />
+      <workItem from="1563326370592" duration="4603000" />
+      <workItem from="1563419953454" duration="6985000" />
+      <workItem from="1563503052468" duration="2446000" />
+      <workItem from="1563513592417" duration="2893000" />
+      <workItem from="1563868696405" duration="7508000" />
+      <workItem from="1563933323475" duration="4654000" />
+      <workItem from="1564017226155" duration="5222000" />
+      <workItem from="1564103489894" duration="10206000" />
+      <workItem from="1564535997788" duration="14271000" />
+      <workItem from="1564631118856" duration="1220000" />
+      <workItem from="1564712640396" duration="274000" />
+      <workItem from="1564727566932" duration="2652000" />
+      <workItem from="1564992196492" duration="609000" />
+      <workItem from="1565053973554" duration="2832000" />
+      <workItem from="1565658755888" duration="12850000" />
+    </task>
+    <task id="LOCAL-00001" summary="1.0">
+      <created>1563513890776</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563513890776</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1.0.1&#10;---&#10;修复install命令,文件路径问题&#10;修复devices读取数据库，字段问题&#10;各功能测试无异常">
+      <created>1563940184096</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1563940184096</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="374290000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49914822" visible="true" weight="0.2193646" />
+      <window_info id="Structure" order="1" sideWeight="0.5008518" side_tool="true" weight="0.18003026" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32879046" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.25553662" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2810903" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32879046" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" weight="0.4088586" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3560477" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.32879046" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49924356" weight="0.32879046" />
+      <window_info anchor="bottom" id="Database Console" order="13" sideWeight="0.49848714" weight="0.51959115" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.28517398" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32980332" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.0" />
+    <MESSAGE value="1.0.1" />
+    <MESSAGE value="1.0.1&#10;---&#10;修复install命令,文件路径问题&#10;修复devices读取数据库，字段问题&#10;各功能测试无异常" />
+    <MESSAGE value="1.0.2&#10;---&#10;截图&#10;音量设置" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.0.2&#10;---&#10;截图&#10;音量设置" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../Scdz/Java/ScAppHelper/src/main/utils/FileUtils.java</url>
+          <line>174</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../Scdz/Java/ScAppHelper/src/main/controller/FTPController.java</url>
+          <line>109</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../Scdz/Java/ScAppHelper/src/main/controller/FTPController.java</url>
+          <line>104</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../Scdz/Java/ScAppHelper/src/main/controller/FTPController.java</url>
+          <line>125</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../Scdz/Java/ScAppHelper/src/main/controller/FTPController.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../Scdz/Java/ScAppHelper/src/main/controller/FTPController.java</url>
+          <line>103</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../Scdz/Java/ScAppHelper/src/main/controller/FTPController.java</url>
+          <line>102</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../Scdz/Java/ScAppHelper/src/main/controller/InfoController.java</url>
+          <line>134</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/lite/Main.java</url>
+          <line>148</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/lite/pages/DevicesController.java</url>
+          <line>306</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/lite/pages/DevicesController.java</url>
+          <line>307</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/controller/CtrlController.java</url>
+          <line>111</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/utils/HttpUtils.java</url>
+          <line>82</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Wbs_DeskTop$Main.ic" NAME="Main Coverage Results" MODIFIED="1563158669911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.lite.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../Scdz/Java/ScAppHelper/src/main/controller/InfoController.java" />
+    <entry file="file://$PROJECT_DIR$/../../Scdz/Java/ScAppHelper/src/main/utils/JdbcUtils.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/javafx-src.zip!/javafx/collections/ObservableList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Scdz/Java/ScAppHelper/src/main/net/PingWorker.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/javafx-src.zip!/javafx/event/EventHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Scdz/Java/ScAppHelper/src/main/utils/FileUtils.java" />
+    <entry file="file://$PROJECT_DIR$/../../Scdz/Java/ScAppHelper/src/main/controller/FTPController.java" />
+    <entry file="file://$PROJECT_DIR$/../../Scdz/Java/ScAppHelper/src/main/login/Login.java" />
+    <entry file="file://$PROJECT_DIR$/../../Scdz/Java/ScAppHelper/src/main/controller/DevicesController.java" />
+    <entry file="file://$PROJECT_DIR$/../../Scdz/Java/ScAppHelper/src/main/controller/CtrlController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/entity/Device.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/lite/pages/FTPController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/lite/pages/InfoController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/lite/pages/CtrlController2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/lite/pages/CtrlController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/lite/pages/DevicesController2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/lite/pages/DevicesController.java" />
+    <entry file="file://$PROJECT_DIR$/out/production/Wbs_DeskTop/main/java/controller/CtrlController.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/lite/Main.java" />
+    <entry file="jar://$PROJECT_DIR$/lib/mssql-jdbc-7.2.1.jre8.jar!/com/microsoft/sqlserver/jdbc/SQLServerDataTable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="260" column="27" selection-start-line="260" selection-start-column="27" selection-end-line="260" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/mssql-jdbc-7.2.1.jre8.jar!/com/microsoft/sqlserver/jdbc/SQLServerDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/entity/DBConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="50" column="16" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/dev_note.md" />
+    <entry file="file://$PROJECT_DIR$/temp/iplist.json" />
+    <entry file="file://$PROJECT_DIR$/temp/jdbc.json" />
+    <entry file="file://$PROJECT_DIR$/Wbs_DeskTop.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6986d845-b407-4f12-94cf-3a70c89045fa/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/APK安装程序/tbs.apk">
+      <provider selected="true" editor-type-id="apk-viewer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/dataSources.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/sqldialects.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357" />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/aff3b825-590b-4509-a152-585722876e9a/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/PingWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="66" column="21" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
+          <folding>
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#674#675#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/GlobalConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/FtpUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/JdbcUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/javafx-src.zip!/javafx/scene/text/Text.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="367" column="22" selection-start-line="367" selection-start-column="22" selection-end-line="367" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Capsule.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/FileUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="43" column="29" lean-forward="true" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+          <folding>
+            <element signature="docComment;class#FileUtils#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controller/CtrlController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1685">
+          <caret line="137" column="55" lean-forward="true" selection-start-line="137" selection-start-column="55" selection-end-line="137" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controller/DevicesController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1656">
+          <caret line="266" column="41" lean-forward="true" selection-start-line="266" selection-start-column="41" selection-end-line="266" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controller/FTPController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+          <folding>
+            <element signature="e#741#742#0" expanded="true" />
+            <element signature="e#779#780#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/HttpUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="78" column="26" selection-start-line="78" selection-start-column="26" selection-end-line="78" selection-end-column="26" />
+          <folding>
+            <element signature="method#doPost#0;class#HttpUtils#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controller/InfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="258" column="22" lean-forward="true" selection-start-line="258" selection-start-column="22" selection-end-line="258" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1389#1390#0" expanded="true" />
+            <element signature="e#1429#1430#0" expanded="true" />
+            <element signature="method#onSelectCall#0;class#InfoController#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/login/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="79" column="30" lean-forward="true" selection-start-line="79" selection-start-column="30" selection-end-line="79" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Wbs_DeskTop</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Wbs_DeskTop</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>
